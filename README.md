@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![Serenity-2026's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serenity-2026)](https://github.com/
-Serenity-2026/github-readme-stats)
+[![Serenity-2026's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serenity-2026)](https://github.com/Serenity-2026/github-readme-stats)
 <!--
 **Serenity-2026/Serenity-2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
