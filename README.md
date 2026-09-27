@@ -31,33 +31,13 @@
 
 <h2 align="center">🤺 <code>About Me</code></h2>
 
-<p align="center">
-  嗨，我是 <b>Serenity-DMC</b>，一名 AI Engineer，来自成都。<br/>
-  热爱编程、读书、健身、摄影、徒步。
-</p>
+嗨，我是 <b>Serenity-DMC</b>，一名 AI Engineer，来自成都。热爱编程、读书、健身、摄影、徒步。
 
-<p align="center">
-  想要自己「实现」一台计算机 —— 从零开始写 <b>CPU + 操作系统 + 编译原理 + 网络协议 + ……</b>
-</p>
+想要自己「实现」一台计算机 —— 从零开始写 <b>CPU + 操作系统 + 编译原理 + 网络协议 + ……</b>
 
-<p align="center">
-  我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。
-</p>
+我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。
 
-<p align="center">
-  <em>We're making the world a better place — through constructing elegant hierarchies for maximum code reuse and extensibility.</em>
-</p>
-
-<pre>
-┌──(serenity㉿dmc)-[~/world]
-└─$ <b>cat ~/.profile</b>
-   role     : AI Engineer
-   stack    : Java · Python · TypeScript
-   backend  : Spring Boot · Redis · MySQL
-   focus    : CPU · OS · Compiler · Networking
-   now      : building an AI Agent Harness
-└─$ <b>_</b>
-</pre>
+> *We're making the world a better place — through constructing elegant hierarchies for maximum code reuse and extensibility.*
 
 <br/>
 
@@ -68,7 +48,7 @@
 <h2 align="center">⌨️ <code>Tech Stack</code></h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,spring,redis,mysql&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,spring,redis,mysql,git,docker,linux&theme=dark" alt="tech stack" />
 </p>
 
 <p align="center">
