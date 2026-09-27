@@ -89,8 +89,6 @@
      SNAKE  ·  由 .github/workflows/snake.yml 生成到 output 分支
      ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🐍 <code>./contributions --animate</code></h2>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Serenity-2026/Serenity-2026/output/github-snake-dark.svg" />
