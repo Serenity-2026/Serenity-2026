@@ -31,7 +31,7 @@
 
 <h2 align="center">🤺 <code>About Me</code></h2>
 
-嗨，我是 <b>Serenity-DMC</b>，一名 AI Engineer，来自成都。热爱编程、读书、健身、摄影、徒步。
+嗨，我是 <b>Serenity</b>，一名 AI Engineer，来自成都。热爱编程、读书、健身、摄影、徒步。
 
 想要自己「实现」一台计算机 —— 从零开始写 <b>CPU + 操作系统 + 编译原理 + 网络协议 + ……</b>
 
